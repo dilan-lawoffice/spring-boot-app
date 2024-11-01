@@ -1,0 +1,26 @@
+# Build files
+/target/
+*.jar
+*.war
+*.class
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+*.project
+*.classpath
+
+# Logs
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Maven files
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
