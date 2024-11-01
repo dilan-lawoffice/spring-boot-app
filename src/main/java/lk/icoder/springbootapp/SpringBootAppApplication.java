@@ -1,4 +1,4 @@
-package lk.icoder.spring_boot_app;
+package lk.icoder.springbootapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

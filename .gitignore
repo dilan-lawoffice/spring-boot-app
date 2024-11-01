@@ -16,6 +16,7 @@
 
 # Logs
 *.log
+/build/
 
 # Operating System files
 .DS_Store
